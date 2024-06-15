@@ -26,9 +26,6 @@ I'm a quantitative finance enthusiast with a strong background in mathematics, s
 - Numerical methods for solving partial differential equations (PDEs)
 - Pricing and valuation of derivatives, including options and futures
 
-## 🤝 Looking to Collaborate On
-- Open-source projects related to financial engineering and computational finance (especially pricing algorithms)
-
 
 ## 🔨 Languages:
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" height="40"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" height="40"/> </a> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp" alt="python" height="40"/> </a>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="python" height="40"/> </a> </p>
