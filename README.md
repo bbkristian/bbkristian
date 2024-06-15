@@ -1,21 +1,21 @@
 👋 Hi, I’m Kristian
 
 I'm a quantitative finance enthusiast with a strong background in mathematics, statistics, and programming. <br>
-I am currently pursuing an MSc in Mathematics and Finance at Imperial College London and I have a BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University.
+Currently, I am pursuing an MSc in Mathematics and Finance at Imperial College London. I hold a BSc in Mathematical and Computing Sciences for Artificial Intelligence from Bocconi University.
 
 ## 👀 Interests
-- Deep Learning and Reinforcement Learning
-- Financial modeling and quantitative analysis
-- Data science and machine learning
-- Programming in Python, R, C/C++, and SQL
+- Deep Learning and Reinforcement Learning algorithms
+- Financial modeling and quantitative risk analysis
+- Computational statistics and data science
+- Advanced programming in Python, R, C/C++, and SQL
 
 ## 🌱 Currently Learning
-- Quantitative risk management techniques
-- Numerical Methods for PDEs
-- Option, futures and other derivatives pricing
+- Quantitative risk management methodologies
+- Numerical methods for solving partial differential equations (PDEs)
+- Pricing and valuation of derivatives, including options and futures
 
 ## 🤝 Looking to Collaborate On
-- Open-source projects related to finance and technology (especially pricing algorithms)
+- Open-source projects related to financial engineering and computational finance (especially pricing algorithms)
 
 ## 📫 How to Reach Me
 - Email: kristian.gjika@outlook.com
