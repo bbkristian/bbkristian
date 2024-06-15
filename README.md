@@ -1,10 +1,10 @@
 # Hi, I’m Kristian
 
-I'm a quantitative finance enthusiast with a strong background in mathematics, statistics, and programming. <br>
-Currently, I am pursuing an MSc in Mathematics and Finance at Imperial College London.<br>
-I hold a BSc in Mathematical and Computing Sciences for Artificial Intelligence from Bocconi University.
+I'm a quantitative finance enthusiast with a strong background in mathematics, statistics, and programming.
 
 - 🗺️ Based in London, UK
+- 📚 MSc candidate in Mathematics and Finance at Imperial College London
+- 🎓 BSc in Mathematics and Computing Sciences for Artificial Intelligence at Bocconi University
 - ✉️ Contact me at kristian.gjika@outlook.com
 
 
@@ -30,10 +30,10 @@ I hold a BSc in Mathematical and Computing Sciences for Artificial Intelligence 
 - Open-source projects related to financial engineering and computational finance (especially pricing algorithms)
 
 
-<h3 align="left">🔨 Languages:</h3>
+## 🔨 Languages:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="python" height="40"/> </a> </p>
 
-<h3 align="left"> ⚙️ Frameworks: </h3>
+## ⚙️ Frameworks:
 <p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> 
 </p> 
