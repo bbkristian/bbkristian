@@ -1,7 +1,7 @@
 👋 Hi, I’m Kristian
 
 I'm a quantitative finance enthusiast with a strong background in mathematics, statistics, and programming. <br>
-I am currently pursuing an MSc in Mathematics and Finance at Imperial College London.
+I am currently pursuing an MSc in Mathematics and Finance at Imperial College London and I have a BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University.
 
 ## 👀 Interests
 - Deep Learning and Reinforcement Learning
