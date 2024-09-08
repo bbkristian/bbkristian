@@ -4,7 +4,7 @@ I'm a quantitative finance enthusiast with a strong background in mathematics, s
 
 - 🗺️ Based in London, UK
 - 📚 MSc candidate in Mathematics and Finance at Imperial College London
-- 🎓 BSc in Mathematics and Computing Sciences for Artificial Intelligence at Bocconi University
+- 🎓 BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University
 - ✉️ Contact me at kristian.gjika@outlook.com
 
 
